@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 @import "reset.css";
 @import "status-bar.css";
+@import "variable.css";
 body {
   font-family: "Open Sans", sans-serif;
 }
@@ -19,5 +20,4 @@ body {
 .welcome-header__text {
   width: 60%;
   opacity: 0.7;
-  matgi
 }
